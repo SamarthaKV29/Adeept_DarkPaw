@@ -1,0 +1,11 @@
+adafruit-pca9685
+flask
+flask_cors
+websockets
+rpi_ws281x
+mpu6050-raspberrypi
+numpy
+imutils
+zmq
+pybase64
+psutil
